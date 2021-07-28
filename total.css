@@ -1,0 +1,90 @@
+body{
+background:url(https://images.unsplash.com/photo-1577451804961-4053f81845d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) no-repeat ; 
+background-size: cover;
+
+}
+.pro{
+color:black;
+text-align:center;
+font-family: 'Satisfy', cursive;
+
+}
+.txt{
+ color:white;
+ font-family: 'Satisfy', cursive;
+
+}
+#arv{
+font-family: 'Satisfy', cursive;
+
+
+}
+
+banner-image{ padding-top: 75px;    
+              padding-bottom: 50px; 
+              text-align: center;     
+             
+              background-color: url(intro-bg_1.jpg) no-repeat; 
+              background-size: cover;
+}
+
+.banner-content{
+    position:relative; 
+    padding-top: 6%; 
+	margin :auto auto;
+    padding-bottom: 6%; 
+    margin-top: 12%; 
+    margin-bottom: 12%; 
+    background-color: rgba(0, 0, 0, 0.7); 
+    max-width: 660px;
+    text-align:center;
+
+    text-color:white;	
+    overflow: hidden;
+    background:rgba(0,0,0,0.7);
+}
+
+.thumbnail img{
+    max-height: 145px; 
+    background-color: rgba(255, 255 ,255, 0.7);
+}
+main {
+    min-height: 100vh;
+}
+
+footer{
+    padding: 10px 0; 
+    background-color: #101010; 
+    color:#9d9d9d; 
+    bottom: 0; 
+    width: 100%; }
+.row_style{margin-top: 70px;
+}
+ h2{font-weight: bolder; 
+ }
+ .jumbotron_style{margin-top: 70px;
+ background-color:rgba(255, 255, 255, 0.7);
+ }
+ .table_style{margin-top: 70px;
+ }
+  h4{font-weight: bolder;
+  }
+ .container_style{margin-top: 80px;
+ }
+
+ .add-to-cart {
+    margin: 0;
+    background-color: #337ab7;
+    color: #ffffff;
+    border: 0;
+    border-radius: 4px;
+    outline: none;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+ }
+ .padding-20 {
+     padding:20px 20px;
+ }
+
